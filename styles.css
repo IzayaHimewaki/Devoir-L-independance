@@ -1,0 +1,52 @@
+body {
+    margin-left: 30px;
+    margin-right: 90px;
+}
+
+/* titre des pages */
+
+h1 {
+    color: #aa3322;
+    margin-bottom: -17px;
+}
+
+h2 {
+    color: #000;
+}
+
+/* tableau pour parcourir les pages */
+
+li {
+    border-style: dashed;
+    background-color: #721717;
+    margin-left: -90px;
+    padding: 0px 10px 5px 40px;
+    border-color: #cccc;
+    border-width: 1px;
+}
+
+table {
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid;
+    border-color: #aa3322;
+}
+
+ul {
+    margin-bottom: 0px;
+}
+
+/* texte*/
+
+p {
+    font-size: 17px;
+    margin: 0px;
+    padding: 0px 15px 0px 0px;
+}
+
+a {
+    color: #711717  ;
+}
+
+/* photo */
